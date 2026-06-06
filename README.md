@@ -2,8 +2,8 @@
 
 # PCB Layer Extractor
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.13-4b5320?style=for-the-badge&labelColor=2f3b1f)
+![License: MIT](https://img.shields.io/badge/License-MIT-6b705c?style=for-the-badge&labelColor=3a4631)
 
 I made this because I wanted an easy way to take Gerber files from a PCB project and turn the useful layers into one packed mask image for PCB render textures.
 
