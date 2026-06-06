@@ -1,0 +1,2 @@
+gerbonara==1.6.3
+Pillow>=12.1.0
