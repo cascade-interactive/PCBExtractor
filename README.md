@@ -1,3 +1,5 @@
+![PCB Layer Extractor banner](banner.png)
+
 # PCB Layer Extractor
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
